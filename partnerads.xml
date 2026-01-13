@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<produkter>
+
+  <produkt>
+    <kategorinavn>Hjem & Have > Rengøring > Gulvvask</kategorinavn>
+
+    <brand>Ease Scandinavia</brand>
+
+    <produktid>CSPM-001</produktid>
+
+    <ean></ean>
+
+    <produktnavn>Ease™ Cordless Spin Mop</produktnavn>
+
+    <produktbeskrivelse>
+      Trådløs spin mop med roterende moppehoved, genopladeligt batteri og ergonomisk design.
+      Effektiv rengøring af alle gulvtyper uden ledning og besvær.
+    </produktbeskrivelse>
+
+    <pris>449.00</pris>
+
+    <gammelpris>799</gammelpris>
+
+    <billedurl>https://easescandinavia.dk/cdn/shop/files/cordless-spin-mop.jpg</billedurl>
+
+    <vareurl>https://easescandinavia.dk/products/cordless-spin-mop</vareurl>
+
+    <fragtomk>0.00</fragtomk>
+
+    <lagerstatus>in stock</lagerstatus>
+
+    <leveringstid>1-3 hverdage</leveringstid>
+
+    <size></size>
+
+    <color></color>
+
+    <gender>unisex</gender>
+  </produkt>
+
+</produkter>
